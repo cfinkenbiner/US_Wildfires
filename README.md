@@ -17,6 +17,8 @@ Use relevant data (i.e. soil type, vegetation classification) at each site locat
 3) NLDAS soil type dataset (1-km Penn State STATSGO data and have 16 texture types; 5MB) [NASA soils dataset](https://ldas.gsfc.nasa.gov/nldas/soils)
 * Other available datasets may be used within this analysis. 
 
+![Fig1_numfires](https://user-images.githubusercontent.com/20464090/109897888-613d2080-7c61-11eb-89ec-4753acd10d4d.png)
+
 ## Methods:
 First, this work will develop machine learning techniques and prediction frameworks (e.g. regression, classification, etc.) for analyzing Oregon wildfires. Then, the methods will be applied to other western US states. Model performance will be based on a variety of evaluation metrics including R^2, RMSE, MAE, etc. 
 

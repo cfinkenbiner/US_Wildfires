@@ -22,7 +22,12 @@ Use relevant data (i.e. soil type, vegetation classification) at each site locat
 ![Fig2_numfires_per_state](https://user-images.githubusercontent.com/20464090/109903540-e62c3800-7c69-11eb-8324-47318200d318.png)
 
 ## Methods:
-First, this work will develop machine learning techniques and prediction frameworks (e.g. regression, classification, etc.) for analyzing Oregon wildfires. Then, the methods will be applied to other western US states. Model performance will be based on a variety of evaluation metrics including R^2, RMSE, MAE, etc. 
+First, this work will develop machine learning techniques and prediction frameworks (e.g. regression, classification, etc.) for analyzing Oregon wildfires. Then, the methods will be applied to other western US states. Model performance will be based on a variety of evaluation metrics including R^2, RMSE, MAE, etc. Shapefiles of modeled outputs will be uploaded into QGIS.
 
 ## Broader Impacts:
-All produced methods, tools and datasets will be freely available and open source. A juptyer notebook will execute all code and reproducing all visualizations. A user will be able to easily adapt the model inputs and notebook to fit their specific regional or temporal areas of interest. A QGIS dataset will also be made available, where a user can interact with the dataset and models. The proposed methods can be used to study past or current fire monitoring and prediction metrics. Private consultants and state and federal policy and decision makers can apply these methods to inform land management in areas with increasing risk of wildfire. 
+All produced methods, tools and datasets will be freely available and open source. A juptyer notebook will execute all code and reproduce all visualizations. A user will be able to easily adapt the model inputs and notebook to fit their specific regional or temporal areas of interest. QGIS data files will be made available, where a user can interact with the datasets and modeled outputs. 
+
+The proposed methods can be used to study past or current fire monitoring and prediction metrics. Private consultants and state and federal policy and decision makers can apply these methods to inform land management in areas with increasing risk of wildfire. 
+
+<img width="1435" alt="Screen Shot 2021-03-04 at 9 30 27 AM" src="https://user-images.githubusercontent.com/20464090/109979299-bc582d00-7ccc-11eb-8b84-37ed7d481bfd.png">
+

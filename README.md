@@ -13,7 +13,7 @@ Use relevant data (i.e. soil type, vegetation classification) at each site locat
  
 ## Datasets: 
 1) Relatively large (800 MB) wildfire dataset containing ~188 million wildfire records from 1992 - 2015 [Kaggle](https://www.kaggle.com/rtatman/188-million-us-wildfires)
-2) NASA Land Data Assimilation System (NLDAS) vegetation dataset (14-class UMD map at 1-km; 5MB) [NASA vegetation class] (https://ldas.gsfc.nasa.gov/nldas/vegetation-class)
+2) NASA Land Data Assimilation System (NLDAS) vegetation dataset (14-class UMD map at 1-km; 5MB) [NASA vegetation class](https://ldas.gsfc.nasa.gov/nldas/vegetation-class)
 3) NLDAS soil type dataset (1-km Penn State STATSGO data and have 16 texture types; 5MB) [NASA soils dataset](https://ldas.gsfc.nasa.gov/nldas/soils)
 * Other available datasets may be used within this analysis. 
 
